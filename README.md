@@ -1,4 +1,6 @@
-### Hello 👋 Rodrigo souza pereira.
+<div align = center class ="introdução">
+          <h1>Eaí, Meu nome é Rodrigo Souza Pereira!</h1>
+<div>
 
 <hr>
 <h1 align = center>Linguagens aprendidas</h1>
@@ -10,11 +12,8 @@
           <img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 </div>
 <hr>
- 
 
           
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
           
           
 
