@@ -12,9 +12,12 @@
           <img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 </div>
 <hr>
+        
+![lhiver GitHub stats](https://github-readme-stats.vercel.app/api?username=lhiver&hide=prs_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhiver&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
           
-          
+         
           
 
 
