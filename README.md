@@ -1,5 +1,5 @@
 <div align = center class ="introdução">
-          <h1>Eaí, Meu nome é Rodrigo Souza Pereira!</h1>
+          <h1>Eaí, Meu nome é Rodrigo Souza!</h1>
 <div>
 
 <hr>
